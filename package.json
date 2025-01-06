@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://dinnovos.guithub.io/todo-machine",
+  "homepage": "https://pycodeve.guithub.io/todo-machine",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
